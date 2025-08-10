@@ -1,5 +1,8 @@
 {
   "mimeTypes": {
     ".crl": "application/pkix-crl"
+  },
+  "globalHeaders": {
+    "Cache-Control": "public, max-age=600"
   }
 }
