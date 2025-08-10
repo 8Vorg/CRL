@@ -1,0 +1,5 @@
+{
+  "mimeTypes": {
+    ".crl": "application/pkix-crl"
+  }
+}
